@@ -1,5 +1,5 @@
 <details>
-<summary>소스코드 설명</summary>
+<summary>실습과제1</summary>
 ```
 16MB 메모리의 주소의 범위를 구하시오.
 ```
