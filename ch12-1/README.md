@@ -26,5 +26,7 @@
 ```
 -주소값이 정수형으로 저장된다.
 
+</details>
+
 <details>
 <summary>실습과제2</summary>
