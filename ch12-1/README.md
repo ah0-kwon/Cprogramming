@@ -77,13 +77,16 @@ double db = 3.4;
 <details>
 <summary>실습과제4</summary>
 
-#다음 코드처럼 변수 a, b, c를 선언하고 각 변수의 주소를 주소연산자(&)를 이용하여 화면에 다음처럼 출력하라.
+다음 코드처럼 변수 a, b, c를 선언하고 각 변수의 주소를 주소연산자(&)를 이용하여 화면에 다음처럼 출력하라.
 
 ```
 char a = ‘A’;
 int b = 36;
 double c = 3.141592;
 ```
-
-
+```
+char형 변수 a의 주소 : xxxxxx
+int형 변수 b의 주소 : xxxxxx
+double형 변수 c의 주소 : xxxxxx
+```
 
