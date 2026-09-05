@@ -59,6 +59,12 @@ double * pt;
 
 <details>
 <summary>실습과제2</summary>
+
+```
+char ch = ‘A’;
+int in = 10;
+double db = 3.4;
+```
   
 | 수식 | 결과값 | 결과값의 자료형 |
 | :--- | :--- | :--- |
