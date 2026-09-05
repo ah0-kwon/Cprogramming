@@ -1,4 +1,3 @@
-<img width="455" height="93" alt="스크린샷 2026-09-05 134750" src="https://github.com/user-attachments/assets/e129f9c5-f0e7-48e3-b8a0-e2c25c921406" />
 <details>
 <summary>실습과제1</summary>
 
