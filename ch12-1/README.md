@@ -60,6 +60,9 @@ double * pt;
 <details>
 <summary>실습과제3</summary>
 
+아래의 변수가 우측 그림처럼 메모리가 할당될 때
+다음 표의 빈칸을 채우시오. 
+
 ```
 char ch = ‘A’;
 int in = 10;
