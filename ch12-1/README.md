@@ -58,7 +58,7 @@ double * pt;
 </details>
 
 <details>
-<summary>실습과제2</summary>
+<summary>실습과제3</summary>
 
 ```
 char ch = ‘A’;
