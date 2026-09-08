@@ -37,10 +37,15 @@ int main(void)
 
 # 실습과제4
 
-#소스코드
+#실행화면
 
 <img width="281" height="52" alt="스크린샷 2026-09-08 233350" src="https://github.com/user-attachments/assets/9015216c-5940-479b-84dd-9b0d685501ed" />
 
 # 실습과제5
 - 교재 284p 문제2 변형문제<br>
 int형 변수 num1과 num2를 선언과 동시에 각각 100과 200으로 초기화 하고 int형 포인트 변수 p1과 p2를 선언하여 각각 num1과 num2를 가리키게 하자 그리고 이 상태에서 포인터 변수 p1을 이용해서 num1의 값을 2배로 만들고, p2를 이용해서 num2에 50을 빼자. 이제 두 포인터 변수가 가리키는 대상을 서로 바꾼 뒤 p1과 p2가 가리키는 변수에 저장된 값을 출력하자.
+
+#실행화면
+
+<img width="327" height="67" alt="스크린샷 2026-09-09 000046" src="https://github.com/user-attachments/assets/342fc086-03b1-4c6e-b38d-f12645794ca1" />
+
