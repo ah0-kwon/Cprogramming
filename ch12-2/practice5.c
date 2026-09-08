@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main(void)
+{
+    int num1 = 100;
+    int num2 = 200;
+
+    int* p1 = &num1;
+    int* p2 = &num2;
+
+    *p1 *= 2;      
+    *p2 -= 50;    
+
+    int* temp = p1;
+    p1 = p2;
+    p2 = temp;
+
+    printf("p1이 가리키는 값: %d\n", *p1); 
+    printf("p2가 가리키는 값: %d\n", *p2); 
+
+    return 0;
+}
