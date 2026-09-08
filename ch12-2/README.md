@@ -7,3 +7,7 @@
 | `*&ch` | 'A' | `char` |
 | `*&in` | 10 | `int` |
 | `*&db` | 3.4 | `double` |
+
+# 실습과제2
+
+#define _CRT_SECURE_NO_WARNINGS
