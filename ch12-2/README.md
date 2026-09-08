@@ -53,3 +53,7 @@ printf("double형 변수 c의 값은 : %lf\n", *&c);
 return 0;
 ```
 - 프로그램 종료
+
+#소스코드
+<img width="432" height="91" alt="스크린샷 2026-09-08 205921" src="https://github.com/user-attachments/assets/d1a22b9a-3241-41bd-9ec8-b729bb1026c8" />
+
