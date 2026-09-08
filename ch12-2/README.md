@@ -10,14 +10,6 @@
 
 # 실습과제2
 ```
-#define _CRT_SECURE_NO_WARNINGS
-```
-- 보안오류방지
-```
-#pragma warning(disable:6031)
-```
-- 리턴값관련 경고 방지
-```
 #include <stdio.h>
 ```
 - 표준 입출력 헤더 파일 포함
@@ -63,9 +55,9 @@ return 0;
 #include<stdio.h>
 int main(void)
 {
-int* ptr = (int*)125; // ①
-*ptr = 10;
-printf("%d\n", *ptr);
-return 0;
+	int* ptr = (int*)125; // ①
+	*ptr = 10;
+	printf("%d\n", *ptr);
+	return 0;
 }
 ```
