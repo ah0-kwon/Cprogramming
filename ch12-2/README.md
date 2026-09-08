@@ -53,6 +53,7 @@ return 0;
 # 실습과제3
 ```
 #include<stdio.h>
+
 int main(void)
 {
 	int* ptr = (int*)125; // ①
