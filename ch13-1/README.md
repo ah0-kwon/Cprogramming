@@ -51,3 +51,13 @@ a는 포인터 변수가 아닌 배열명이다. 배열명은 주소값을 변�
 #실행결과
 
 <img width="207" height="41" alt="스크린샷 2026-09-11 211229" src="https://github.com/user-attachments/assets/e9e840aa-eed5-4a13-a8fe-0858d7d41a19" />
+
+# 실습과제4
+
+#실행결과
+
+<img width="338" height="87" alt="스크린샷 2026-09-11 212218" src="https://github.com/user-attachments/assets/87d8f558-8d3f-44af-91d6-69f06e69d197" />
+
+# 실습과제5
+
+#실행결과
