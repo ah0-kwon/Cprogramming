@@ -23,3 +23,6 @@
 
 - 포인터 연산을 기존의 산술연산과 다르게 정의한 이유는 무엇일까?
 
+# 실습과제2
+
+<img width="386" height="163" alt="스크린샷 2026-09-11 191457" src="https://github.com/user-attachments/assets/54b198d7-fd8a-4bd3-9597-3182c8635778" />
