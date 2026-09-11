@@ -62,4 +62,4 @@ a는 포인터 변수가 아닌 배열명이다. 배열명은 주소값을 변�
 
 #실행결과
 
-<img width="338" height="87" alt="스크린샷 2026-09-11 212218" src="https://github.com/user-attachments/assets/134135ea-89b3-4570-9299-ac1d7993b360" />
+<img width="377" height="187" alt="스크린샷 2026-09-11 213631" src="https://github.com/user-attachments/assets/acd6290a-da19-4a5b-abdc-89ee5e761008" />
