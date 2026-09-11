@@ -49,3 +49,5 @@ return 0;
 a는 포인터 변수가 아닌 배열명이다. 배열명은 주소값을 변경할 수 없는 상수이므로, a++와 같이 주소 값을 직접 변경하거나 대입할 수 없다.
 
 #실행결과
+
+<img width="207" height="41" alt="스크린샷 2026-09-11 211229" src="https://github.com/user-attachments/assets/e9e840aa-eed5-4a13-a8fe-0858d7d41a19" />
