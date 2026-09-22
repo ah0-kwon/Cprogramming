@@ -30,5 +30,9 @@
 <img width="465" height="141" alt="스크린샷 2026-09-23 000236" src="https://github.com/user-attachments/assets/55834c28-2a07-4144-911f-0bdea3ac5356" />
 
 - 세정수의 교환방법
- >x 값이 z로, z 값이 y로, y 값이 x로 이동했다.
+  >x 값이 z로, z 값이 y로, y 값이 x로 이동했다.
+- 24페이지처럼 시간에 따라 메모리의 상태 그리기
+
+  <img width="896" height="281" alt="스크린샷 2026-09-23 010141" src="https://github.com/user-attachments/assets/8d67fec4-631d-45f4-803a-2783a4ea393c" />
+
 # 실습과제5
