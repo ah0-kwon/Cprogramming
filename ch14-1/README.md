@@ -13,7 +13,15 @@
 
 - 위 그림과 같이 값에 의한 호출에서는 인자의 값이 매개변수에 전달되므로 매개변수를 변경해도 원래 변수의 값은 변경되지 않는다. 문제에서 add2(number)를 호출하면 number의 값 15가 value에 전달된다. add2 함수에서 value를 17로 변경해도 number와 value는 서로 다른 메모리 공간에 존재하므로 number는 15로 그대로 남는다. 따라서 함수가 종료되면 변경된 value는 사라지고 number는 15이므로 17이 출력되지 않는다.
 
+#실행결과
+
+<img width="313" height="68" alt="스크린샷 2026-09-22 235826" src="https://github.com/user-attachments/assets/ccbb2126-c244-452d-9187-c8adbb03c852" />
+
 # 실습과제3
+
+#실행결과
+
+<img width="301" height="74" alt="스크린샷 2026-09-22 235925" src="https://github.com/user-attachments/assets/26e8b726-0d22-460d-b6a9-2f83a7e4468b" />
 
 # 실습과제4
 
