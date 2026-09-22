@@ -36,3 +36,8 @@
   <img width="896" height="281" alt="스크린샷 2026-09-23 010141" src="https://github.com/user-attachments/assets/8d67fec4-631d-45f4-803a-2783a4ea393c" />
 
 # 실습과제5
+
+<img width="415" height="112" alt="스크린샷 2026-09-23 011629" src="https://github.com/user-attachments/assets/f15d2a71-86a3-4e4d-992c-ef2b7c95a64b" />
+
+- 2가지 방식의 차이
+  >값에 의한 호출은 매개변수를 값을 변경해도 원래 변수의 값은 변경되지 않기 때문에 결과를 반환 후 원래 변수에 저장해야 하지만 주소에 의한 호출은 포인터를 이용해 원래 변수의 값을 변경할 수 있다.
