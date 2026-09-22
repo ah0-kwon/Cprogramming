@@ -1,10 +1,15 @@
+// **********************************************
+// 제  목  :  14-1 실습과제4 소스코드
+// 날  짜  :  2026년 9월22일
+// 작성자  :  2600015 권아영
+// **********************************************
+
 #define _CRT_SECURE_NO_WARNINGS 
 #pragma warning(disable:6031) 
 
 #include <stdio.h>
 
-// 함수 선언
-void swap(int *px, int *py, int *pz);
+void swap(int *px, int *py, int *pz);   // 함수 선언
 
 int main() 
 {
@@ -17,15 +22,12 @@ int main()
     scanf("%d", &z);
     
     printf("swap함수 호출 전 x=%d, y=%d, z=%d\n", x, y, z);
-
-    // 함수 호출
-    swap(&x, &y, &z);
+    swap(&x, &y, &z);   // 함수 호출
     printf("swap함수 호출 후 x=%d, y=%d, z=%d\n", x, y, z);
     return 0;
 }
 
-// 함수 정의
-void swap(int *px, int *py, int *pz) 
+void swap(int *px, int *py, int *pz)   // 함수 정의
 {
     int tmp;
     tmp = *px;  
