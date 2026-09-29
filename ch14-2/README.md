@@ -44,3 +44,5 @@
 
 ## 15-3
 #실행결과
+
+<img width="512" height="292" alt="스크린샷 2026-09-29 211422" src="https://github.com/user-attachments/assets/f071aa72-aeb4-49db-8921-a0b5cac6716a" />
