@@ -38,5 +38,9 @@
 <img width="337" height="315" alt="스크린샷 2026-09-29 205758" src="https://github.com/user-attachments/assets/a0a25e97-cfe3-42da-b322-be4c58185f56" />
 
 ## 15-2
+#실행결과
+
+<img width="288" height="62" alt="스크린샷 2026-09-29 210535" src="https://github.com/user-attachments/assets/ac905f28-670c-4d24-922f-6f1528e1564e" />
 
 ## 15-3
+#실행결과
