@@ -13,9 +13,7 @@ int main(void)
 {
     int arr[10];
     int i;
-
     printf("10개의 정수 입력\n");
-
     for (i = 0; i < 10; i++)
     {
         printf("입력: ");
@@ -30,28 +28,22 @@ int main(void)
 void odd(int arr[], int size)
 {
     int i;
-
     printf("홀수 출력: ");
-
     for (i = 0; i < size; i++)
     {
         if (arr[i] % 2 != 0)
             printf("%d ", arr[i]);
     }
-
     printf("\n");
 }
 void even(int arr[], int size)
 {
     int i;
-
     printf("짝수 출력: ");
-
     for (i = 0; i < size; i++)
     {
         if (arr[i] % 2 == 0)
             printf("%d ", arr[i]);
     }
-
     printf("\n");
 }
