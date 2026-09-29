@@ -3,3 +3,42 @@
 // 날  짜  :  2026년 9월29일
 // 작성자  :  2600015 권아영
 // **********************************************
+
+#define _CRT_SECURE_NO_WARNINGS
+#pragma warning(disable:6031) 
+#include <stdio.h>
+int main(void)
+{
+    int arr[10];
+    int i;
+    int front = 0;
+    int back = 9;
+    int n;
+
+    printf("10개의 정수 입력\n");
+    for (i = 0; i < 10; i++)
+    {
+        printf("입력: ");
+        scanf("%d", &n);
+
+        if (n % 2 != 0)
+        {
+            arr[front] = n;
+            front++;
+        }
+        else
+        {
+            arr[back] = n;
+            back--;
+        }
+    }
+
+    printf("배열 요소의 출력: ");
+    for (i = 0; i < 10; i++)
+    {
+        printf("%d ", arr[i]);
+    }
+
+    printf("\n");
+    return 0;
+}
