@@ -27,4 +27,7 @@
 <img width="366" height="86" alt="스크린샷 2026-09-29 202655" src="https://github.com/user-attachments/assets/a90259ea-8384-450a-827c-e6a05a58942b" />
 
 # 실습과제5
+- 교재 324p 문제1
+
+  
 # 도전과제
