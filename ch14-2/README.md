@@ -12,6 +12,10 @@
 
   -> const는 변수의 값을 상수처럼 변경하지 않고 사용하기 위해 선언한다.
 # 실습과제2
+#실행결과
+
+<img width="392" height="180" alt="스크린샷 2026-09-29 195224" src="https://github.com/user-attachments/assets/fd694dba-f2f7-40fa-927b-81ae68fbeba8" />
+
 # 실습과제3
 # 실습과제4
 # 실습과제5
