@@ -17,6 +17,10 @@
 <img width="392" height="180" alt="스크린샷 2026-09-29 195224" src="https://github.com/user-attachments/assets/fd694dba-f2f7-40fa-927b-81ae68fbeba8" />
 
 # 실습과제3
+#실행결과
+
+<img width="407" height="242" alt="스크린샷 2026-09-29 200813" src="https://github.com/user-attachments/assets/0fba18d1-a092-4398-a9ef-15a5288b4cd2" />
+
 # 실습과제4
 # 실습과제5
 # 도전과제
