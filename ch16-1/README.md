@@ -6,6 +6,8 @@
 # 실습과제2
 #실행결과
 
+<img width="695" height="97" alt="스크린샷 2026-10-02 201608" src="https://github.com/user-attachments/assets/b4c7d7ff-9a32-4c80-abff-fc24b1ba8881" />
+
 # 실습과제3
 #실행결과
 
