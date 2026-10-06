@@ -19,7 +19,6 @@ int main(void)
 void prn_str(char* ptrarr[], int count)
 {
 	int i;
-
 	for (i = 0; i < count; i++)
 		printf("%s\n", ptrarr[i]);
 }
