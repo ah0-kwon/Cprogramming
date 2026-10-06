@@ -10,5 +10,8 @@
 |**dptr|6.28|double|
 
 # 실습과제2
+
+<img width="146" height="47" alt="스크린샷 2026-10-06 201640" src="https://github.com/user-attachments/assets/ba1d5e59-fa22-42e4-8f41-6459268f1019" />
+
 # 실습과제3
 # 실습과제4
