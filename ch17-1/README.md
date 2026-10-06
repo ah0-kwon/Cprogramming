@@ -36,29 +36,37 @@
 ```
 void MaxAndMin(int** maxPtr, int** minPtr, int arr[])
 ```
+-최댓값, 최솟값 찾는 함수 정의
 ```
 int i;
 ```
+-반복문에 사용할 변수
 ```
 *maxPtr = &arr[0];
 ```
+-첫 번째 배열 값을 최댓값이라 가정
 ```
 *minPtr = &arr[0];
 ```
+-첫 번째 배열 값을 최솟값이라 가정
 ```
 for (i = 1; i < 5; i++)
 ```
+-두 번째 배열부터 마지막까지 검사
 ```
 if (**maxPtr < arr[i])
     *maxPtr = &arr[i];
 ```
+-만약 현재 최댓값보다 arr[i] 값이 크다면 그 값의 주소를 maxPtr에 저장
 ```
 if (**minPtr > arr[i])
     *minPtr = &arr[i];
 ```
+-만약 현재 최솟값보다 arr[i] 값이 작다면 그 값의 주소를 minPtr에 저장
 ```
 int main(void)
 ```
+-메인함수 시작
 ```
 int* maxPtr;
 ```
