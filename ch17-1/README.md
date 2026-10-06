@@ -24,15 +24,15 @@
 ```
 #define _CRT_SECURE_NO_WARNINGS
 ```
-보안오류방지
+-보안오류방지
 ```
 #pragma warning(disable:6031)
 ```
-리턴값관련 경고 방지
+-리턴값관련 경고 방지
 ```
 #include <stdio.h>
 ```
-
+-표준 입출력 함수를 사용하기 위한 헤더 파일 포함
 ```
 void MaxAndMin(int** maxPtr, int** minPtr, int arr[])
 ```
