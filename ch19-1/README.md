@@ -41,7 +41,7 @@ void greet(void (*func)())
 ```
 greet(greetMorning);
 ```
-→ 함수를 매개변수로 전달한
+→ 함수를 매개변수로 전달
 ```
 func();
 ```
