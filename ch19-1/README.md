@@ -16,7 +16,7 @@ void 포인터는 자료형이 정해져 있지 않아서 직접 간접참조할
 2. 자동형변환 : 컴파일러가 자동으로 자료형을 변환
 # 실습과제2
 ## 함수의 매개변수에 함수 포인터를 활용하는 예제
-소스코드
+- 소스코드
 ```
 #include <stdio.h>
 void greetMorning() { printf("Good morning!\n"); }
@@ -33,7 +33,7 @@ int main() {
 }
 ```
 
-핵심코드설명 
+- 핵심코드설명 
 ```
 void greet(void (*func)())
 ```
@@ -47,7 +47,7 @@ func();
 ```
 → 전달받은 함수를 실행한다.
 
-실행결과
+- 실행결과
 
 <img width="196" height="68" alt="스크린샷 2026-10-08 200506" src="https://github.com/user-attachments/assets/1479b046-4871-46aa-a048-f1964f2bfbf1" />
 
