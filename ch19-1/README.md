@@ -15,6 +15,28 @@ void 포인터는 자료형이 정해져 있지 않아서 직접 간접참조할
 1. 강제형변환 : 프로그래머가 직접 자료형을 변환
 2. 자동형변환 : 컴파일러가 자동으로 자료형을 변환
 # 실습과제2
+## 함수의 매개변수에 함수 포인터를 활용하는 예제
+소스코드
+```
+#include <stdio.h>
+void greetMorning() { printf("Good morning!\n"); }
+void greetEvening() { printf("Good evening!\n"); }
+
+void greet(void (*func)()) {
+  func();
+}
+
+int main() {
+  greet(greetMorning);
+  greet(greetEvening);
+  return 0;
+}
+```
+
+코드설명 
+
+실행결과
+
 # 실습과제3
 # 도전과제1
 # 도전과제2
