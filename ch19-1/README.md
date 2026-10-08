@@ -51,6 +51,44 @@ func();
 
 <img width="196" height="68" alt="스크린샷 2026-10-08 200506" src="https://github.com/user-attachments/assets/1479b046-4871-46aa-a048-f1964f2bfbf1" />
 
+## 함수의 매개변수에 void포인터를 활용하는 예제
+- 소스코드
+```
+#include <stdio.h>
+void printString(void* ptr)
+{
+    printf("str: %s\n", ptr);
+}
+int main()
+{
+    char* str = "hi there";
+    printString(str);
+    return 0;
+}
+```
+
+- 핵심코드설명
+```
+void printString(void *ptr)
+```
+→ void 포인터를 함수의 매개변수로 사용합니다.
+```
+char *str = "hi there";
+```
+→ 문자열을 가리키는 포인터를 만듭니다.
+```
+printString(str);
+```
+→ str을 void * 매개변수에 전달합니다.
+```
+printf("str: %s\n", ptr);
+```
+→ 전달받은 포인터가 가리키는 문자열을 출력합니다.
+
+- 실행결과
+
+<img width="196" height="45" alt="스크린샷 2026-10-08 201134" src="https://github.com/user-attachments/assets/25bac876-6d7f-45d7-a423-347fa309360b" />
+
 # 실습과제3
 # 도전과제1
 # 도전과제2
