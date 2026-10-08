@@ -95,5 +95,9 @@ printf("str: %s\n", ptr);
 <img width="658" height="87" alt="스크린샷 2026-10-08 202602" src="https://github.com/user-attachments/assets/ce72ecfc-3534-4622-ad4c-644f9fd2f1ef" />
 
 # 도전과제1
+- 실행결과
+
+<img width="268" height="556" alt="스크린샷 2026-10-08 204614" src="https://github.com/user-attachments/assets/1567cec3-dea8-4164-b573-9198cbe498b0" />
+
 # 도전과제2
 # 도전과제3
