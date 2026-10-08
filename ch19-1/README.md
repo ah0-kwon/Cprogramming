@@ -33,9 +33,22 @@ int main() {
 }
 ```
 
-코드설명 
+핵심코드설명 
+void greet(void (*func)())
+```
+→ 함수 포인터를 매개변수로 받는다.
+```
+greet(greetMorning);
+```
+→ 함수를 매개변수로 전달한다.
+```
+func();
+```
+→ 전달받은 함수를 실행한다.
 
 실행결과
+
+<img width="196" height="68" alt="스크린샷 2026-10-08 200506" src="https://github.com/user-attachments/assets/1479b046-4871-46aa-a048-f1964f2bfbf1" />
 
 # 실습과제3
 # 도전과제1
