@@ -41,11 +41,11 @@ void greet(void (*func)())
 ```
 greet(greetMorning);
 ```
-→ 함수를 매개변수로 전달한다.
+→ 함수를 매개변수로 전달한
 ```
 func();
 ```
-→ 전달받은 함수를 실행한다.
+→ 전달받은 함수를 실행
 
 - 실행결과
 
@@ -71,19 +71,19 @@ int main()
 ```
 void printString(void *ptr)
 ```
-→ void 포인터를 함수의 매개변수로 사용합니다.
+→ void 포인터를 함수의 매개변수로 사용
 ```
 char *str = "hi there";
 ```
-→ 문자열을 가리키는 포인터를 만듭니다.
+→ 문자열을 가리키는 포인터
 ```
 printString(str);
 ```
-→ str을 void * 매개변수에 전달합니다.
+→ str을 void * 매개변수에 전달
 ```
 printf("str: %s\n", ptr);
 ```
-→ 전달받은 포인터가 가리키는 문자열을 출력합니다.
+→ 전달받은 포인터가 가리키는 문자열을 출력
 
 - 실행결과
 
