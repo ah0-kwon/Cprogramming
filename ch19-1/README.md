@@ -105,3 +105,6 @@ printf("str: %s\n", ptr);
 <img width="310" height="207" alt="스크린샷 2026-10-08 205301" src="https://github.com/user-attachments/assets/a1a6f4b6-f15c-4486-8792-296a3abef8af" />
 
 # 도전과제3
+- 실행결과
+
+<img width="395" height="160" alt="스크린샷 2026-10-08 205840" src="https://github.com/user-attachments/assets/af533816-99de-4425-9083-0370587fe972" />
