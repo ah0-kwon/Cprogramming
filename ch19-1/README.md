@@ -90,6 +90,10 @@ printf("str: %s\n", ptr);
 <img width="196" height="45" alt="스크린샷 2026-10-08 201134" src="https://github.com/user-attachments/assets/25bac876-6d7f-45d7-a423-347fa309360b" />
 
 # 실습과제3
+- 실행결과
+
+<img width="658" height="87" alt="스크린샷 2026-10-08 202602" src="https://github.com/user-attachments/assets/ce72ecfc-3534-4622-ad4c-644f9fd2f1ef" />
+
 # 도전과제1
 # 도전과제2
 # 도전과제3
