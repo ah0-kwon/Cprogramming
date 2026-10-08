@@ -100,4 +100,8 @@ printf("str: %s\n", ptr);
 <img width="268" height="556" alt="스크린샷 2026-10-08 204614" src="https://github.com/user-attachments/assets/1567cec3-dea8-4164-b573-9198cbe498b0" />
 
 # 도전과제2
+- 실행결과
+
+<img width="310" height="207" alt="스크린샷 2026-10-08 205301" src="https://github.com/user-attachments/assets/a1a6f4b6-f15c-4486-8792-296a3abef8af" />
+
 # 도전과제3
