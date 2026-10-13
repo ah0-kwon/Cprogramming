@@ -38,7 +38,7 @@ scanf("%c", &blood_type); -> scanf(" %c", &blood_type);<br>
 
 # 실습과제4
 
-<img width="716" height="682" alt="스크린샷 2026-10-13 232654" src="https://github.com/user-attachments/assets/d1b6e0d0-79d9-4f69-94d8-72df21822ad8" />
+<img width="725" height="675" alt="스크린샷 2026-10-13 232851" src="https://github.com/user-attachments/assets/0a1e4c5f-c8a0-4cde-a2e2-de0a532e45c5" />
 
 # 실습과제5
 ## 실행결과
