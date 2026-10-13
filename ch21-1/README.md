@@ -26,22 +26,8 @@
 <img width="365" height="112" alt="스크린샷 2026-10-13 211954" src="https://github.com/user-attachments/assets/6fff0623-115d-4ef0-a632-ad486094b3cd" />
 
 # 실습과제4
-## 소스코드
-```
-#include <stdio.h>
-int main(void)
-{
-char ch;
-int i;
-for (i = 0; i < 5; i++)
-{
-printf("문자 입력:");
-scanf("%c", &ch);
-printf("문자: %c\n", ch);
-}
-return 0;
-}
-```
+
+
 # 실습과제5
 ## 실행결과
 
