@@ -23,4 +23,8 @@
 <img width="365" height="112" alt="스크린샷 2026-10-13 211954" src="https://github.com/user-attachments/assets/6fff0623-115d-4ef0-a632-ad486094b3cd" />
 
 # 실습과제4
+
 # 실습과제5
+- 실행결과
+
+<img width="442" height="75" alt="스크린샷 2026-10-13 212535" src="https://github.com/user-attachments/assets/b4060885-ee32-4c92-a7ec-b25dc9c42331" />
