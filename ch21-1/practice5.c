@@ -9,9 +9,19 @@
 #include <stdio.h>
 int main(void)
 {
-	char str[20];
-	printf("문자열을 입력하시오 : ");
-	fgets(str, sizeof(str), stdin);
-	printf("문자열: %s \n", str);
-	return 0;
+    char str[20];
+    int i = 0;
+    printf("문자열을 입력하시오 : ");
+
+    while (i < 19)
+    {
+        scanf("%c", &str[i]);
+        if (str[i] == '\n')
+            break;
+        i++;
+    }
+
+    str[i] = '\0';
+    printf("문자열: %s \n", str);
+    return 0;
 }
