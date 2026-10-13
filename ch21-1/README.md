@@ -26,8 +26,8 @@
 <img width="932" height="466" alt="스크린샷 2026-10-13 221825" src="https://github.com/user-attachments/assets/35ca1c29-e189-45a4-ae4f-805174b6c0d3" />
 
 ## 해결방법
-scanf("%c", &blood_type);을 scanf(" %c", &blood_type);으로 수정한다.
-%c 앞에 공백을 추가하면 입력 버퍼에 남아 있는 엔터키, 공백, 등의 공백 문자를 건너뛰고 실제 문자를 읽어온다.
+scanf("%c", &blood_type);을 scanf(" %c", &blood_type);으로 수정한다.<br>
+%c 앞에 공백을 추가하면 입력 버퍼에 남아 있는 엔터키, 공백, 등의 공백 문자를 건너뛴다.
 ## 수정된 입력 버퍼 상태
 
 <img width="860" height="517" alt="스크린샷 2026-10-13 224637" src="https://github.com/user-attachments/assets/c2780fe2-6a2d-42bf-8a66-dbbbc8c5485e" />
