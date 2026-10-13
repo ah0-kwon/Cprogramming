@@ -13,18 +13,21 @@
 - scanf함수는 입력 버퍼에서 데이터를 읽어 오고 운영체제는 키보드에서 입력 버퍼로 전송하는 역할 
 - printf함수는 출력 버퍼에 데이터를 출력하고 운영체제는 출력 버퍼에서 모니터로 전송하는 역할
 # 실습과제2
-- 실행결과
+## 실행결과
 
 <img width="240" height="185" alt="스크린샷 2026-10-13 210932" src="https://github.com/user-attachments/assets/42519a28-3ceb-465f-9797-b7c75be290a7" />
 
 # 실습과제3
-- 실행결과
+## 기존 코드의 문제
+## 입력 버퍼 상태
+## 수정된 입력 버퍼 상태
+## 실행결과
 
 <img width="365" height="112" alt="스크린샷 2026-10-13 211954" src="https://github.com/user-attachments/assets/6fff0623-115d-4ef0-a632-ad486094b3cd" />
 
 # 실습과제4
 
 # 실습과제5
-- 실행결과
+## 실행결과
 
 <img width="442" height="75" alt="스크린샷 2026-10-13 212535" src="https://github.com/user-attachments/assets/b4060885-ee32-4c92-a7ec-b25dc9c42331" />
