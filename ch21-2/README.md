@@ -27,3 +27,5 @@ gets, fgets
 
 # 실습과제5
 ## 실행결과
+
+<img width="320" height="57" alt="스크린샷 2026-10-27 215857" src="https://github.com/user-attachments/assets/468ab9bb-9f34-4958-a584-e3d53230b3a7" />
