@@ -12,6 +12,9 @@ gets, fgets
 - 널포인터(NULL): 어떤 객체도 가리키지 않는 포인터
 # 실습과제2
 ## 실행결과
+
+<img width="252" height="190" alt="스크린샷 2026-10-27 210520" src="https://github.com/user-attachments/assets/5ddab98b-72d7-4b22-9042-851cac078154" />
+
 # 실습과제3
 ## 실행결과
 # 실습과제4
