@@ -1,4 +1,4 @@
-<img width="207" height="48" alt="스크린샷 2026-10-30 210203" src="https://github.com/user-attachments/assets/dccaa6d7-2929-4b9e-8d8a-5bb9773fe40c" /># 실습과제1
+# 실습과제1
 ## 실행결과
 
 <img width="402" height="187" alt="스크린샷 2026-10-30 194335" src="https://github.com/user-attachments/assets/80acb8f6-1968-41cf-974f-03c17a920b97" />
