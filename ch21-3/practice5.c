@@ -14,19 +14,19 @@ int main(void)
     int fst = 0, lst =0;
     int i = 0;
 
-    for (i=1; i<5; i++)
+    for (i=0; i<5; i++)
     {
         printf("문자열 입력: ");
-        scanf("%s", str[i]);
+        scanf("%s", &str[i][0]);
     }
     for (i=1; i<5; i++)
     {
-        if (strcmp(str[i], str[fst]) < 0)
+        if (strcmp(&str[i][0], &str[fst][0]) < 0)
             fst = i;
-        if (strcmp(str[i], str[lst]) > 0)
+        if (strcmp(&str[i][0], &str[lst][0]) > 0)
             lst = i;
     }
-    printf("제일앞: %s \n", str[fst]);
-    printf("제일뒤: %s \n", str[fst]);
+    printf("제일앞: %s \n", &str[fst][0]);
+    printf("제일뒤: %s \n", &str[lst][0]);
     return 0;
 }
