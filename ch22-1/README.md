@@ -11,6 +11,9 @@
 - 구조체 변수 선언 : 구조체의 멤버 변수가 메모리 공간에 할당되는 것
 # 실습과제2
 ## 실행결과
+
+<img width="485" height="162" alt="스크린샷 2026-11-03 195847" src="https://github.com/user-attachments/assets/8afa5a7f-f62d-4b91-9d27-66b8a90e186b" />
+
 # 실습과제3
 ## 실행결과
 # 실습과제4
