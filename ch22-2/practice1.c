@@ -30,3 +30,33 @@ int main(void)
 	printf("최우수학생의 이름은 %s, 점수는 %d점", s[max].name, s[max].grade);
 	return 0;
 }
+
+// 구조체 포인터 사용
+#define _CRT_SECURE_NO_WARNINGS
+#pragma warning(disable:6031)
+#include <stdio.h>
+struct student {
+	char name[20];
+	int grade;
+};
+int main(void)
+{
+	struct student s[3];
+	struct student* p;
+	p = s;
+	int i, max = 0;
+	for (i = 0; i < 3; i++)
+	{
+		printf("이름을 입력하시오: ");
+		scanf("%s", (p + i)->name);
+		printf("성적을 입력하시오: ");
+		scanf("%d", &(p + i)->grade);
+	}
+	for (i = 1; i < 3; i++)
+	{
+		if ((p + max)->grade < (p + i)->grade)
+			max = i;
+	}
+	printf("최우수학생의 이름은 %s, 점수는 %d점", (p + max)->name, (p + max)->grade);
+	return 0;
+}
