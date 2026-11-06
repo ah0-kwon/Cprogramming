@@ -18,7 +18,7 @@ int main(void)
 	for (i = 0; i < 3; i++)
 	{
 		printf("이름을 입력하시오: ");
-		scanf("%s", s[i].name);;
+		scanf("%s", s[i].name);
 		printf("성적을 입력하시오: ");
 		scanf("%d", &s[i].grade);
 	}
