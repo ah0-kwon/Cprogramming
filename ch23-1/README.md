@@ -1,6 +1,7 @@
 # 실습과제1
 ## 실행결과
 
+<img width="481" height="156" alt="스크린샷 2026-11-10 230442" src="https://github.com/user-attachments/assets/99cdcf52-c470-4a49-a8fc-c305d8d48e23" />
 
 # 실습과제2
 ## 실행결과
