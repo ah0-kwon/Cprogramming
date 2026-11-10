@@ -13,13 +13,13 @@ typedef struct student {
 	int grade;
 }Student;
 void get_data(Student* s);
-Student get_best(Student* s);
+Student get_first(Student* s);
 int main(void)
 {
 	Student s[3];
 	Student fst;
 	get_data(s);
-	fst = get_best(s);
+	fst = get_first(s);
 	printf("제일 앞에 나오는 이름은 %s, 점수는 %d점\n", fst.name, fst.grade);
 	return 0;
 }
@@ -34,7 +34,7 @@ void get_data(Student* s)
 		scanf("%d", &s[i].grade);
 	}
 }
-Student get_best(Student* s)
+Student get_first(Student* s)
 {
 	int i, fst = 0;
 	for (i = 1; i < 3; i++)
