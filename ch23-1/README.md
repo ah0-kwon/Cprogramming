@@ -20,3 +20,5 @@
 
 # 실습과제5
 ## 실행결과
+
+<img width="371" height="68" alt="스크린샷 2026-11-10 233144" src="https://github.com/user-attachments/assets/5b722b71-2a97-475a-8195-ebf2506b7ec9" />
