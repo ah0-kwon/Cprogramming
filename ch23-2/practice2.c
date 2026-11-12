@@ -8,17 +8,16 @@
 #pragma warning(disable:6031)
 #include <stdio.h>
 typedef struct students {
-    char name[20];  
-    int id;          
-    int korean;      
-    int english;     
-    int math;        
-    double avg;      
+    char name[20];
+    int id;
+    int korean;
+    int english;
+    int math;
+    double avg;
 } Student;
 int main(void)
 {
     Student s[3], best;
-    best = s[0];
     int i;
     for (i = 0; i < 3; i++)
     {
@@ -34,6 +33,7 @@ int main(void)
         scanf("%d", &s[i].math);
         s[i].avg = (s[i].korean + s[i].english + s[i].math) / 3.0;
     }
+    best = s[0];
     for (i = 1; i < 3; i++)
         if (s[i].avg > best.avg)
             best = s[i];
