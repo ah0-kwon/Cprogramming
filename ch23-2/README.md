@@ -8,6 +8,8 @@
 # 실습과제2
 ## 실행 결과
 
+<img width="430" height="412" alt="스크린샷 2026-11-12 222255" src="https://github.com/user-attachments/assets/212babb0-f531-4690-8171-120f71f33062" />
+
 # 실습과제3
 ## 실행 결과
 
