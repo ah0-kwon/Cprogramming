@@ -17,7 +17,8 @@ typedef struct students {
 } Student;
 int main(void)
 {
-    Student s[3], best;
+    Student s[3];
+    int max = 0;
     int i;
     for (i = 0; i < 3; i++)
     {
@@ -33,12 +34,11 @@ int main(void)
         scanf("%d", &s[i].math);
         s[i].avg = (s[i].korean + s[i].english + s[i].math) / 3.0;
     }
-    best = s[0];
     for (i = 1; i < 3; i++)
-        if (s[i].avg > best.avg)
-            best = s[i];
+        if (s[i].avg > s[max].avg)
+            max = i;
     printf("<최우수 학생정보>\n");
-    printf("%s %d %d %d %d %f\n", best.name, best.id,
-        best.korean, best.english, best.math, best.avg);
+    printf("%s %d %d %d %d %f\n", s[max].name, s[max].id,
+        s[max].korean, s[max].english, s[max].math, s[max].avg);
     return 0;
 }
