@@ -23,14 +23,14 @@ int main(void)
     fp_in = fopen(src, "r");
     if (fp_in == NULL) {
         printf("원본 파일을 열 수 없습니다.\n");
-        return 1;
+        return -1;
     }
 
     fp_out = fopen(dst, "w");
     if (fp_out == NULL) {
         printf("대상 파일을 열 수 없습니다.\n");
         fclose(fp_in);
-        return 1;
+        return -1;
     }
 
     while ((ch = fgetc(fp_in)) != EOF) {
