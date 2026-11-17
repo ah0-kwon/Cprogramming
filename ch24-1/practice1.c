@@ -20,13 +20,13 @@ int main(void)
     printf("복사받을 파일명: ");
     scanf("%s", dst);
 
-    fp_in = fopen(src, "r");
+    fp_in = fopen(src, "rt");
     if (fp_in == NULL) {
         printf("원본 파일을 열 수 없습니다.\n");
         return -1;
     }
 
-    fp_out = fopen(dst, "w");
+    fp_out = fopen(dst, "wt");
     if (fp_out == NULL) {
         printf("대상 파일을 열 수 없습니다.\n");
         fclose(fp_in);
