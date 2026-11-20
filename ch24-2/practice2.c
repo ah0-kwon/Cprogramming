@@ -9,7 +9,7 @@
 #include <stdio.h>
 int main(void) 
 {
-    char name[50];
+    char name[20];
     int score1, score2, score3;
 
     FILE* fp1 = fopen("input.txt", "rt");
