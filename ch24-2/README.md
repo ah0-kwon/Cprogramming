@@ -3,7 +3,7 @@
 
 <img width="487" height="102" alt="스크린샷 2026-11-20 134243" src="https://github.com/user-attachments/assets/e648dfdb-f5d1-4da5-bbf9-4cff2b4e7b66" />
 
-<img width="1150" height="628" alt="스크린샷 2026-11-20 134821" src="https://github.com/user-attachments/assets/63d6a461-85aa-4f3f-85f2-f39e2efe99c4" />
+<img width="362" height="201" alt="스크린샷 2026-11-20 134311" src="https://github.com/user-attachments/assets/43091a27-6c62-4af0-aa69-193662842c5c" />
 
 # 실습과제2
 ## 실행결과
