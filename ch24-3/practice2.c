@@ -22,7 +22,6 @@ int main(void)
     if (fread(num, sizeof(int), 10, fp) != 10)
     {
         puts("파일 읽기 실패");
-        fclose(fp);
         return -1;
     }
 
