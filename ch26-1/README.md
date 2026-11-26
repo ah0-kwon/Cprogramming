@@ -27,7 +27,17 @@
 ### 출처
 https://blog.naver.com/master-coding/224300741483
 ### 소스코드 설명
+```
+#include <stdio.h>                 // printf를 사용하기 위한 헤더 파일
 
+#define WELCOME_MESSAGE "Welcome to C" // 매크로 상수 정의
+
+int main()                            
+{
+    printf("%s\n", WELCOME_MESSAGE);  // 문자열을 출력하고 줄을 바꿈
+    return 0;                          // 프로그램 정상 종료
+}
+```
 ### 실행결과
 
 <img width="355" height="77" alt="image" src="https://github.com/user-attachments/assets/9a09c354-ef68-4e2d-9a61-562084a52a8c" />
