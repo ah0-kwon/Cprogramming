@@ -3,3 +3,12 @@
 // 날  짜  :  2026년 11월26일
 // 출  처  :  마스터 코딩교육센터
 // **********************************************
+
+#include <stdio.h>
+
+#define WELCOME_MESSAGE "Welcome to C"
+
+int main() {
+    printf("%s\n", WELCOME_MESSAGE);
+    return 0;
+}
