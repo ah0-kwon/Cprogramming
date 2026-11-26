@@ -27,7 +27,7 @@
 ### 출처
 https://blog.naver.com/master-coding/224300741483
 ### 소스코드 설명
-```
+```c
 #include <stdio.h>                 // printf를 사용하기 위한 헤더 파일
 
 #define WELCOME_MESSAGE "Welcome to C" // 매크로 상수 정의
