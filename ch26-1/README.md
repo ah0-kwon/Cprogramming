@@ -28,3 +28,5 @@
 ### 실행결과
 # 실습과제4
 ## 실행결과
+
+<img width="312" height="72" alt="스크린샷 2026-11-26 212034" src="https://github.com/user-attachments/assets/2c8debc1-a3ed-48b5-9364-db0a48fd4726" />
